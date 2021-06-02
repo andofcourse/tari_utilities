@@ -1,5 +1,5 @@
 base:
-  language: rust
+  language: go
   sanitizers:
     address:
     thread:
